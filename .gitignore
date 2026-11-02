@@ -1,0 +1,14 @@
+# Test and probe outputs (may contain machine/account details)
+research/tests/launcher-test-*/
+research/tests/local-token-send-result.json
+
+# Analysis workspace: Microsoft binaries/symbols and bundled tooling must not be published
+research/tools/symbols/
+research/tools/downloads/
+research/tools/deps/
+research/tools/deps-x64/
+research/tools/python-x64/
+research/tools/pip-cache/
+__pycache__/
+*.pdb
+*.bin
