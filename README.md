@@ -133,9 +133,7 @@ The other tests make no authentication or licensing requests.
 
 ## Credits
 
-- **Reverse engineering, analysis tooling and the activation script:** OpenAI Codex (GPT 6.1 Sol).
-- **Direction, testing on affected devices and publication:** [@msaifuddin](https://github.com/msaifuddin).
-- **Documentation and redaction for public release:** Claude Code (Claude Opus 5.5).
+Reverse engineering, analysis tooling and the activation script: OpenAI Codex (GPT 6.1 Sol).
 
 ## Licence
 
